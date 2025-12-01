@@ -1,32 +1,32 @@
 <!--
     Hey there, I'm Aryan Jaggi!
-    Happy to see you here exploring my README code
+    Happy to see you exploring my README code
     
-    But may I please ask you to follow me in return? Just a click!
-    You may also want to connect with me on LinkedIn @aryan-jaggi-878483135 :))
+    May I please ask you to follow me in return? Just a click!
+    You can also connect with me on LinkedIn @aryan-jaggi-878483135 :)
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Helllo%2CThis+is+Aryan+Jaggi;AI+Researcher+" alt="Typing SVG" /></a>
+<!-- Typing SVG (FIXED) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&color=00E7FF&lines=Hello%2C+This+is+Aryan+Jaggi;AI+Researcher;Systems+Engineer;Security+Enthusiast;Always+Building+Next+Gen+Intelligence" />
+</p>
 
-
-<div>
+<!-- Terminal GIF -->
+<div align="center">
     <img src="./terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
+---
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,mongodb,mysql,java,spring,js,nodejs,react,jest,jenkins,cs,dotnet,html,css,bootstrap,androidstudio,ps,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
-
+---
 
 ### Connect with me!
 <div>
@@ -34,26 +34,19 @@
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
     <a href="https://github.com/Ajaggi24">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="GitHub" width="37" height="37"/>
     </a>
-  
-  
 </div>
 
-<!--
-     Oh, hello there, recruiters!
--->
+---
 
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://resume-aryanjaggi.tiiny.site">Download my resume</a>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&section=footer" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
+---
 
 <div align="center">
 <pre>
