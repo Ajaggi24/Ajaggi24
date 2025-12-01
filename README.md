@@ -13,7 +13,7 @@
 </a>
 
 <div>
-    <img src="./assets/about_aryan.gif" alt="About Me Terminal GIF"/>
+    <img src="./terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
 
