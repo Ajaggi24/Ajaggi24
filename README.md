@@ -9,7 +9,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=wave&height=300&color=auto"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Helllo%2CThis+is+Aryan+Jaggi;AI+Researcher+" alt="Typing SVG" /></a>"/>
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Helllo%2CThis+is+Aryan+Jaggi;AI+Researcher+" alt="Typing SVG" /></a>
 </a>
 
 <div>
